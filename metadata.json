@@ -1,0 +1,8 @@
+{
+  "name": "FireGram Messenger",
+  "description": "A Telegram-style messenger with real-time chat, stickers, and WebRTC video calls powered by Firebase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
